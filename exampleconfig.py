@@ -2,7 +2,7 @@ from sample_config import Config
 
 
 class Development(Config):
-    #هنا ضع الكودات الخاصه بك امسح الكلام العربي وضعهن
+   #لعيون اليد حسيونن
     APP_ID = 6
     API_HASH = "هنا الايبي هاش"
     ALIVE_NAME = "اسم حسابك"
@@ -15,4 +15,4 @@ class Development(Config):
     SUDO_USERS = []
     SUDO_COMMAND_HAND_LER = "،"
     TZ = "Asia/Baghdad"
-#t.me/jmthon
+#t.me/qlv88
