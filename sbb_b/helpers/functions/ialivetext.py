@@ -82,7 +82,7 @@ async def sbb_balive(StartTime):
         dyno = f"{AppHours}h {AppMinutes}m/{hours}h {minutes}m"
     except Exception as e:
         dyno = e
-    return f"حالة سورس جمثون\
+    return f"حالة سورس صادق\
                  \n\nقاعدة البيانات : {check_sgnirts}\
                   \nالسودة : {sudo}\
                   \nالوقت : {uptime}\
